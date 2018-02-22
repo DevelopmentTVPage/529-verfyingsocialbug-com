@@ -1,0 +1,26 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "123423185",
+            "title": "testimage25 .product 05",
+            "date_created": "1519261797",
+            "loginId": "1759046",
+            "tags": null,
+            "description": "testimage25 .product 05 -",
+            "asset": {
+                "type": "youtube",
+                "author": "sd sf",
+                "hdvFlag": 1,
+                "description": "testimage25 .product 05 -",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/gP3BZrbjLnI\/maxresdefault.jpg",
+                "videoId": "gP3BZrbjLnI",
+                "mediaDuration": 14,
+                "prettyDuration": "00:00:14"
+            },
+            "parentId": "123419889",
+            "url": "\/good\/testimage25-product-05\/123419889-123423185"
+        }
+    ]
+}
