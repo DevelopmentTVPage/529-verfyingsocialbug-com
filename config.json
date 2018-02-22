@@ -1,0 +1,15 @@
+{
+    "title": "social bug back?",
+    "baseURL": "https:\/\/verfyingsocialbug.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759046",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "verfyingsocialbug.com"
+    }
+}
